@@ -1,7 +1,7 @@
 # SoonsBOT
-BOT Prefix: ^
+## BOT Prefix: ^
 
-![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139543052-afe3e6b1-54a9-416d-bac1-5776e9a10bae.png) 👇  Commands
+## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png) 👇  Bot commands:
 | Command  | Aliases | Description
 | --- | --- | --- |
 | Ping| pong, peng, pang, bing | bot status |

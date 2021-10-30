@@ -16,5 +16,5 @@
 | user |userinfo, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
 | ov | offlineviewers | Shows the number of offline viewers in the chat | 
-| following |tf, twitchfollowing | Shows user following list |
+| following |tf, twitchfollowing, following | Shows user following list |
 | followers |seguidores | Shows the number of followers from the given user |

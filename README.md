@@ -21,7 +21,7 @@
 | pyramid | | Make a pyramid in chat|
 |spam | | Spam a message |
 |massping | | Mentions the whole viewerlist |
-|randomline |rl | Sends a random line |
+|randomline |rl | Sends a random line from the specified channel (if its being logged)|
 | color | colour |ChatColor of the given user |
 | accage |accountage |  Shows your account age |
 | user |userinfo, usuario, ? | Gives account info from given user |

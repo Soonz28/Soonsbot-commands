@@ -2,8 +2,8 @@
 ## BOT Prefix: ^
 
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png) 👇  Bot commands:
-| Name  | Aliases | Description
-| --- | --- | --- |
+| Name  | Aliases | Description 
+| --- | --- | --- | 
 | Ping| pong, pang, peng, pung, bing | bot status |
 | commands |comandos | Links you to the bot commands page |
 | weebcheck | weeblevel | Percentage of your weeb level |
@@ -14,14 +14,15 @@
 | % |percentage, porcentaje | Random percentage between 1 and 100 |
 | echo | | |
 | eval | | |
-|cat|rcat | Random cat picture |
-|anime |waifu,ayaya | Random anime picture/gif | 
+| cat|rcat | Random cat picture |
+| anime |waifu,ayaya | Random anime picture/gif | 
 | bttv |bttvsearch | Search a bttv emote by the name |
 | ffz | ffzsearch | Search a ffz by the name |
 | pyramid | | Make a pyramid in chat|
-|spam | | Spam a message |
-|massping | | Mentions the whole viewerlist |
-|randomline |rl | Sends a random line from the specified channel (if its being logged)|
+| spam | | Spam a message |
+| massping | | Mentions the whole viewerlist |
+| randomline |rl | Sends a random line from the specified channel (if its being logged)|
+| subage |sa | Check the subage of a user to a channel
 | color | colour |ChatColor of the given user |
 | accage |accountage |  Shows your account age |
 | user |userinfo, usuario, ? | Gives account info from given user |

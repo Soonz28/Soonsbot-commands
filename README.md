@@ -6,7 +6,7 @@
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, bing | bot status |
 | commands |comandos | Links you to the bot commands page |
-| pingme |me, bingme | Mentions you |
+| pingme |bingme, me | Mentions you |
 | weebcheck |weeblevel | Percentage of your weeb level |
 | randomhex |rh, rc, randomcolor | Random hex color |
 | givecookie |giftcookie | Gifts you a Supibot cookie! (if the bot is avaiable)|
@@ -22,13 +22,13 @@
 | pyramid | |Make a pyramid in chat|
 | spam | |Spam a message |
 | massping | |Mentions the whole viewerlist |
-| randomline |rl | Sends a random line from the specified channel  |
-| subage |sa | Check the subage of a user to a channel
+| randomline |rl | Sends a random line from the specified channel |
+| subage |sa | Check the subage of a user to a channel |
 | color |colour |ChatColor of the given user |
 | accage |accountage |  Shows your account age |
 | user |userinfo, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
 | userid |uid, id | Sends UserID of the user |
 | ov |offlineviewers | Shows the number of offline viewers in the chat | 
-| twitchfollowing |tf, following, | Shows user following list |
+| twitchfollowing |tf, following, | Sends user following list |
 | followers |seguidores | Shows the number of followers of the user |

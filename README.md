@@ -8,8 +8,7 @@
 | commands |comandos | Brings you here |
 | pingme |bingme, me | Mentions you |
 | weebcheck |weeblevel | Percentage of your weeb level |
-| randomhex |rh, rc, randomcolor | Random hex color |
-| givecookie |giftcookie | Gifts you a Supibot cookie! (if the bot is avaiable)|
+| randomhex |randomcolor, rh, rc | Random hex color |
 | whispers |susurros | Links you to your whispers |
 | coinflip |cf | Flips a coin |
 | % |percentage, porcentaje | Random percentage between 1 and 100 |

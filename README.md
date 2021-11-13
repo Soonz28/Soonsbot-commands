@@ -5,7 +5,7 @@
 | Name  | Aliases | Description 
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, bing | bot status |
-| commands |comandos | Links you to the bot commands page |
+| commands |comandos | Brings you here |
 | pingme |bingme, me | Mentions you |
 | weebcheck |weeblevel | Percentage of your weeb level |
 | randomhex |rh, rc, randomcolor | Random hex color |

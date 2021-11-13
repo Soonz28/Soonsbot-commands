@@ -4,7 +4,7 @@
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png) 👇  Bot commands:
 | Name  | Aliases | Description 
 | --- | --- | --- | 
-| Ping| pong, pang, peng, pung, bing | bot status |
+| Ping| pong, pang, peng, pung, pyng, bing | bot status |
 | commands |comandos | Brings you here |
 | pingme |bingme, me | Mentions you |
 | weebcheck |weeblevel | Percentage of your weeb level |
@@ -13,6 +13,7 @@
 | coinflip |cf | Flips a coin |
 | % |percentage, porcentaje | Random percentage between 1 and 100 |
 | echo | | |
+| say | | |
 | eval | | |
 | cat|rcat |Random cat picture |
 | anime |waifu,ayaya | Random anime picture/gif | 

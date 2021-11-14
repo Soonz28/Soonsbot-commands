@@ -21,7 +21,7 @@
 | ffz |ffzsearch | Search a ffz emote by the name |
 | 7tv | 7tvsearch | Search a 7tv emote by the name |
 | pyramid | |Make a pyramid in chat (maximum 30)|
-| spam | |Spam a message (maximum 60 )|
+| spam | |Spam a message (maximum 60)|
 | massping | |Mentions the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | randomline |rl | Sends a random line |
 | subage |sa | Check the subage of a user to a channel |

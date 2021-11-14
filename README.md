@@ -18,7 +18,8 @@
 | cat|rcat |Random cat picture |
 | anime |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by the name |
-| ffz |ffzsearch | Search a ffz by the name |
+| ffz |ffzsearch | Search a ffz emote by the name |
+| 7tv | 7tvsearch | Search a 7tv emote by the name |
 | pyramid | |Make a pyramid in chat (maximum 30)|
 | spam | |Spam a message (maximum 60 )|
 | massping | |Mentions the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |

@@ -16,15 +16,15 @@
 | say | | |
 | eval | | |
 | cat|rcat |Random cat picture |
-| anime |waifu,ayaya | Random anime picture/gif | 
+| anime |waifu,ayaya | Random anime picture/gif ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by the name |
 | ffz |ffzsearch | Search a ffz by the name |
-| pyramid | |Make a pyramid in chat|
-| spam | |Spam a message |
-| massping | |Mentions the whole viewerlist |
-| randomline |rl | Sends a random line from the specified channel |
+| pyramid | |Make a pyramid in chat (maximum 30)|
+| spam | |Spam a message (maximum 60 )|
+| massping | |Mentions the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
+| randomline |rl | Sends a random line |
 | subage |sa | Check the subage of a user to a channel |
-| color |colour |ChatColor of the given user |
+| color |colour |chatColor of the given user |
 | accage |accountage |  Shows your account age |
 | user |userinfo, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |

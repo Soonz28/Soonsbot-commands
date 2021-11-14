@@ -16,7 +16,7 @@
 | say | | |
 | eval | | |
 | cat|rcat |Random cat picture |
-| anime |waifu,ayaya | Random anime picture/gif ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
+| anime |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by the name |
 | ffz |ffzsearch | Search a ffz by the name |
 | pyramid | |Make a pyramid in chat (maximum 30)|

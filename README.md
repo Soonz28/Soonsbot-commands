@@ -6,7 +6,7 @@
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, pyng, bing | bot status |
 | commands |comandos | Brings you here |
-| pingme |bingme, me | Mentions you |
+| pingme |bingme, me | Mentions you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | weebcheck |weeblevel | Percentage of your weeb level |
 | randomhex |randomcolor, rh, rc | Random hex color |
 | whispers |susurros | Links you to your whispers |

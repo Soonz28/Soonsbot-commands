@@ -35,5 +35,5 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | pfp |profilepicture | Fetches an user picture |
 | userid |uid, id | Sends UserID of the user |
 | ov |offlineviewers | Check how many viewers are in chat | 
-| twitchfollowing |tf, following, | Sends user's following list |
+| following |twitchfollowing, tf | Sends user's following list |
 | followers |seguidores | Sends the number of followers of given user |

@@ -33,7 +33,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | accountage |accage |  Shows your account age |
 | userinfo |user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
-| userid |uid, id | Sends UserID of the user |
+| userid |uid, id | Sends user's userID |
 | ov |offlineviewers | Check how many viewers are in chat | 
 | following |twitchfollowing, tf | Sends user's following list |
 | followers |seguidores | Sends user's amount of followers and views |

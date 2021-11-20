@@ -2,7 +2,7 @@
 ## BOT Prefix: ^
 Bot made by [@Soonzs](https://twitch.tv/soonzs)
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png) 👇  Bot commands:
-| Name  | Aliases | Description 
+| Name  | Aliases | Description |
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, pyng, bing | bot status |
 | commands |comandos | Brings you here |
@@ -12,7 +12,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | randomhex |randomcolor, rh, rc | Random hex color |
 | whispers |susurros | Links you to your whispers |
 | coinflip |cf | Flips a coin |
-| % |percentage, porcentaje | Random percentage between 1 and 100 |
+| % |percentage, porcentaje | Random percentage between 0 and 100 |
 | echo | | |
 | say | | |
 | eval | | |
@@ -22,9 +22,10 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | bttv |bttvsearch | Search a bttv emote by its name |
 | ffz |ffzsearch | Search a ffz emote by its name |
 | 7tv | 7tvsearch | Search a 7tv emote by its name |
+| wolfram |query | Wolfram alpha query |
 | pyramid | |Make a pyramid in chat (maximum 25)|
 | spam | |Spam a message (maximum 50)|
-| massping | |Mentions the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
+| massping | |Pings the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | randomline |rl | Sends a random line |
 | randomping |randombing | Random ping in chat |
 | google | gg | Search something on google |

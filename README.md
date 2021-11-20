@@ -25,16 +25,17 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | wolfram |query | Wolfram alpha query |
 | pyramid | |Make a pyramid in chat (maximum 25)|
 | spam | |Spam a message (maximum 50)|
+| fill | | Repeats a message until it reaches 500 characters |
 | massping | |Pings the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | randomline |rl | Sends a random line |
 | randomping |randombing | Random ping in chat |
-| google | gg | Search something on google |
+| google | gg | Sends a link with your query (google) |
 | subage |sa | Check the subage of a user to a channel |
 | color |chatcolor, colour |chatColor of the given user |
 | accountage |accage |  Shows your account age |
 | userinfo |user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
 | userid |uid, id | Sends user's userID |
-| ov |offlineviewers | Check how many viewers are in chat | 
+| chatters |offlineviewers, ov | Check how many viewers are in chat | 
 | following |twitchfollowing, tf | Sends user's following list |
 | followers |seguidores | Sends user's amount of followers and views |

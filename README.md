@@ -31,7 +31,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | subage |sa | Check the subage of a user to a channel |
 | color |colour, chatcolor |chatColor of the given user |
 | accountage |accage |  Shows your account age |
-| user |userinfo, usuario, ? | Gives account info from given user |
+| userinfo |user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
 | userid |uid, id | Sends UserID of the user |
 | ov |offlineviewers | Check how many viewers are in chat | 

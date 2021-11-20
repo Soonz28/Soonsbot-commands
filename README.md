@@ -6,7 +6,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, pyng, bing | bot status |
 | commands |comandos | Brings you here |
-| help| |Get  detailed info of a specific command| 
+| help| |Get detailed info of a specific command| 
 | pingme |bingme, me | Mentions you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | weebcheck |weeblevel | Percentage of your weeb level |
 | randomhex |randomcolor, rh, rc | Random hex color |
@@ -16,7 +16,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | echo | | |
 | say | | |
 | eval | | |
-| code |getcode | Get the code of a command (only admin) |
+| code |getcode | |
 | rcat|randomcat, cat |Random cat picture |
 | anime |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by its name |
@@ -30,7 +30,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | google | gg | Search something on google |
 | subage |sa | Check the subage of a user to a channel |
 | color |colour, chatcolor |chatColor of the given user |
-| accage |accountage |  Shows your account age |
+| accountage |accage |  Shows your account age |
 | user |userinfo, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user picture |
 | userid |uid, id | Sends UserID of the user |

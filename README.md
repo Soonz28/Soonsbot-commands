@@ -27,6 +27,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | massping | |Mentions the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | randomline |rl | Sends a random line |
 | randomping |randombing | Random ping in chat |
+| google | gg | Search something on google |
 | subage |sa | Check the subage of a user to a channel |
 | color |colour, chatcolor |chatColor of the given user |
 | accage |accountage |  Shows your account age |
@@ -35,4 +36,4 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | userid |uid, id | Sends UserID of the user |
 | ov |offlineviewers | Check how many viewers are in chat | 
 | twitchfollowing |tf, following, | Sends user's following list |
-| followers |seguidores | Sends the number of followers of the user |
+| followers |seguidores | Sends the number of followers of given user |

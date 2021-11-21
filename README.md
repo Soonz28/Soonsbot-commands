@@ -33,7 +33,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | randomping |randombing | Random ping in chat |
 | google | gg | Sends a link with your query (google) |
 | subage |sa | Check the subage of an user to a channel |
-| color |chatcolor, colour |chatColor of the given user |
+| color |chatcolor, colour |chatColor of the given user|
 | accountage |accage |  Shows your account age |
 | whois |userinfo, user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user's picture |

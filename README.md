@@ -1,7 +1,7 @@
 # SoonsBOT
 ## BOT Prefix: ^
 Bot made by [@Soonzs](https://twitch.tv/soonzs)
-## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png) 👇  Bot commands:
+## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png)   Bot commands:
 | Name  | Aliases | Description |
 | --- | --- | --- | 
 | Ping| pong, pang, peng, pung, pyng, bing | bot status |
@@ -23,6 +23,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | ffz |ffzsearch | Search a ffz emote by its name |
 | 7tv | 7tvsearch | Search a 7tv emote by its name |
 | wolfram |query | Wolfram alpha query |
+| weather |clima | Sends the weather of given city/country |
 | pyramid | |Make a pyramid in chat (maximum 25)|
 | spam | |Spam a message (maximum 50)|
 | fill | | Repeats a message until it reaches 500 characters |

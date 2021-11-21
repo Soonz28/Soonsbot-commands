@@ -31,8 +31,9 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | massping | |Pings the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | randomline |rl | Sends a random line |
 | randomping |randombing | Random ping in chat |
-| google | gg | Sends a link with your query (google) |
+| google |gg | Sends a link with your query (google) |
 | subage |sa | Check the subage of an user to a channel |
+| followage |fa | Check the followage of an user to a channel |
 | color |chatcolor, colour |chatColor of the given user|
 | accountage |accage |  Shows your account age |
 | whois |userinfo, user, usuario, ? | Gives account info from given user |

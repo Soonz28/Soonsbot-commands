@@ -35,7 +35,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | color |chatcolor, colour |chatColor of the given user |
 | accountage |accage |  Shows your account age |
 | userinfo |user, usuario, ? | Gives account info from given user |
-| pfp |profilepicture | Fetches an user picture |
+| pfp |profilepicture | Fetches an user's picture |
 | userid |uid, id | Sends user's userID |
 | chatters |offlineviewers, ov | Check how many viewers are in chat | 
 | following |twitchfollowing, tf | Sends user's following list |

@@ -28,6 +28,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | 7tv | 7tvsearch | Search a 7tv emote by its name |
 | wolfram |query | Wolfram alpha query |
 | weather |clima | Sends the actual weather of given city/country |
+| urban | urbandic | Sends the top definition of given term |
 | pyramid | |Make a pyramid in chat (maximum 25)|
 | spam | |Spam a message (maximum 50)|
 | fill | | Repeats a message until it reaches 500 characters |
@@ -42,7 +43,8 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | accountage |accage |  Shows your account age |
 | whois |userinfo, user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user's picture |
-| userid |uid, id | Sends user's userID |
+| userid |uid, id | Sends given user's userID and checks if its banned |
 | chatters |offlineviewers, ov | Check how many viewers are in chat | 
 | following |twitchfollowing, tf | Sends user's following list |
 | followers |seguidores | Sends user's amount of followers and views |
+| realnick | login | Checks the display-name and login nick of given user |

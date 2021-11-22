@@ -32,6 +32,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | randomline |rl | Sends a random line |
 | randomping |randombing | Random ping in chat |
 | google |gg | Sends a link with your query (google) |
+| ys |youtubesearch | Video search on youtube |
 | subage |sa | Checks the subage of an user to a channel |
 | followage |fa | Checks the followage of an user to a channel |
 | color |chatcolor, colour |chatColor of the given user|

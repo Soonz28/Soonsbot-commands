@@ -10,6 +10,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | pingme |bingme, me | Mentions you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | weebcheck |weeblevel | Percentage of your weeb level |
 | randomhex |randomcolor, rh, rc | Random hex color |
+| tuck | | Tucks targeted user to bed |
 | whispers |susurros | Links you to your whispers |
 | coinflip |cf | Flips a coin |
 | % |percentage, porcentaje | Random percentage between 0 and 100 |
@@ -18,6 +19,8 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | eval | | |
 | code |getcode | |
 | shutdown | kill | |
+| joinchannel | | 
+| partchannel | |
 | rcat|randomcat, cat |Random cat picture |
 | anime |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by its name |

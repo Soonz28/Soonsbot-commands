@@ -17,10 +17,10 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | echo | | |
 | say | | |
 | eval | | |
-| code |getcode | |
-| shutdown | kill | |
 | joinchannel | | 
 | partchannel | |
+| code |getcode | |
+| shutdown | kill | |
 | rcat|randomcat, cat |Random cat picture |
 | anime |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | bttv |bttvsearch | Search a bttv emote by its name |

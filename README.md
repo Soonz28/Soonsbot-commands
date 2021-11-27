@@ -26,6 +26,10 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | bttv |bttvsearch | Search a bttv emote by its name |
 | ffz |ffzsearch | Search a ffz emote by its name |
 | 7tv | 7tvsearch | Search a 7tv emote by its name |
+| bttvemotes | |  Sends all bttv emotes of given channel |
+| ffzemotes | | Sends all ffz emotes of given channel |
+| 7tvemotes | | Sends all 7tv emotes of given channel |
+| emotelinks | | Checks all the given user links of their emotes |
 | wolfram |query | Wolfram alpha query |
 | weather |clima | Sends the actual weather of given city/country |
 | urban | urbandic | Sends the top definition of given term |
@@ -40,7 +44,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | ys |youtubesearch | Video search on youtube |
 | subage |sa | Checks the subage of an user to a channel |
 | followage |fa | Checks the followage of an user to a channel |
-| color |chatcolor, colour |chatColor of the given user|
+| color |chatcolor, colour, usercolor |chatColor of the given user|
 | accountage |accage |  Shows your account age |
 | whois |userinfo, user, usuario, ? | Gives account info from given user |
 | pfp |profilepicture | Fetches an user's picture |
@@ -48,4 +52,4 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | chatters |offlineviewers, ov | Check how many viewers are in chat | 
 | following |twitchfollowing, tf | Sends user's following list |
 | followers |seguidores | Sends user's amount of followers and views |
-| realnick | login | Checks the display-name and login nick of given user |
+| realnick | login | Checks the display-name and login name of given user |

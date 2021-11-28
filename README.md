@@ -8,7 +8,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **commands** |comandos | Brings you here |
 | **help** | |Get detailed info of a specific command| 
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
-| **weebcheck** |weeblevel | Percentage of your weeb level |
+| **weebcheck** |weeblevel | Random percentage of your weeb level |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
 | **tuck** | | Tucks targeted user to bed |
 | **whispers** |susurros | Links you to your whispers |

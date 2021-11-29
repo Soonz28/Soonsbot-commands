@@ -11,6 +11,7 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **weebcheck** |weeblevel | Random percentage of your weeb level |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
 | **tuck** | | Tucks targeted user to bed |
+| **shuffle** | | Shuffles the provided word |
 | **whispers** |susurros | Links you to your whispers |
 | **coinflip** |cf | Flips a coin |
 | **%** |percentage, porcentaje | Random percentage between 0 and 100 |

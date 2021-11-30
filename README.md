@@ -49,6 +49,5 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **chatters** |offlineviewers, ov | Checks how many viewers are in chat | 
 | **following** |twitchfollowing, tf | Sends user's following list |
 | **followers** |seguidores | Sends user's amount of followers and views |
-| **realnick** | login | Checks the display-name and login name of given user |
 
 You can use ^help [command] to get extra details about a specific command.

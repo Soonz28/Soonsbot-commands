@@ -1,6 +1,6 @@
 # SoonsBOT
 ## BOT Prefix: ^
-Bot made by [@Soonzs](https://twitch.tv/soonzs)
+Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png)   Bot commands:
 | Name  | Aliases | Description |
 | --- | --- | --- | 
@@ -12,7 +12,8 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **randomhex** |randomcolor, rh, rc | Random hex color |
 | **tuck** | | Tucks targeted user to bed |
 | **shuffle** | | Shuffles the provided message/word |
-| **whispers** |susurros | Links you to your whispers |
+| **whispers** |susurros, w | Links you to your whispers |
+| **chatterino** | | Sends the link of chatterino release |
 | **coinflip** |cf | Flips a coin |
 | **%** |percentage, porcentaje | Random percentage between 0 and 100 |
 | **echo** | | |
@@ -24,8 +25,12 @@ Bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **shutdown** | kill | |
 | **rcat** |randomcat, cat |Random cat picture |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
-| **bttv** |bttvsearch, ffzsearch, 7tvsearch, 7tv, ffz | Search a bttv/7tv/ffz emote by its name |
-| **bttvemotes** |7tvemotes, ffzemotes |  Sends all bttv/7tv/ffz emotes of given channel |
+| **bttv** |bttvsearch| Search a bttv emote by its name |
+| **ffz** |ffzsearch | Search a ffz emote by its name |
+| **7tv** |7tvsearch | Search a 7tv emote by its name |
+| **bttvemotes** | 7tvemotes, ffzemotes |  Sends all bttv emotes of given channel |
+| **ffzemotes** | | Sends all ffz emotes of given channel | 
+| **7tvemotes** | | Sends all 7tv emotes of given channel |
 | **emotelinks** | | Sends all the given user links of their emotes |
 | **wolfram** |query | Wolfram alpha query |
 | **weather** |clima | Sends the actual weather of given city/country |

@@ -35,7 +35,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **Ping** | pong, pang, peng, pung, pyng, bing | bot status |
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | **profilepicture** |pfp | Fetches an user's picture |
-| **pyramid** | |Make a pyramid in chat (maximum 25)|
+| **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
 | **randomline** |rl | Sends a random line |
@@ -43,7 +43,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **say** | | |
 | **shuffle** | | Shuffles the provided message/word |
 | **shutdown** | kill | |
-| **spam** | |Spam a message (maximum 50)|
+| **spam** | |Spam a message (maximum 70)|
 | **subage** |sa | Checks the subage of an user to a channel |
 | **tuck** | | Tucks targeted user to bed |
 | **urban** | urbandic | Sends the top definition of given term |

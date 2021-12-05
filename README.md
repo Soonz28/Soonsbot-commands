@@ -36,10 +36,10 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | **profilepicture** |pfp | Fetches an user's picture |
 | **pyramid** | |Make a pyramid in chat (maximum 25)|
+| **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
 | **randomline** |rl | Sends a random line |
 | **randomping** |randombing | Random ping in chat |
-| **rcat** |randomcat, cat |Random cat picture |
 | **say** | | |
 | **shuffle** | | Shuffles the provided message/word |
 | **shutdown** | kill | |

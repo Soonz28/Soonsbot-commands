@@ -1,11 +1,13 @@
 # SoonsBOT
 ## BOT Prefix: ^
 Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
+
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png)   Bot commands:
 | Name  | Aliases | Description |
 | --- | --- | --- |
 | **%** |percentage, porcentaje | Random percentage between 0 and 100 |
 | **7tv** |7tvsearch | Search a 7tv emote by its name |
+| **8ball** | | Ask the magic 8ball |
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
 | **accountage** |accage |  Shows your account age |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
@@ -46,7 +48,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **spam** | |Spam a message (maximum 70)|
 | **subage** |sa | Checks the subage of an user to a channel |
 | **tuck** | | Tucks targeted user to bed |
-| **urban** | urbandic | Sends the top definition of given term |
+| **urban** | urbandic | Sends the top definition of given term from urban dictionary |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |
 | **userinfo** |usuario, user, whois, ? | Gives account info from given user |
 | **weather** |clima | Sends the actual weather of given city/country |
@@ -55,4 +57,5 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **wolfram** |query | Wolfram alpha query |
 | **youtubesearch** |ys | Video search on youtube |
 
+---
 You can use ^help [command] to get extra details about a specific command.

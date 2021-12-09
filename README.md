@@ -10,6 +10,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **8ball** | | Ask the magic 8ball |
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
 | **accountage** |accage | Sends your account age |
+| **afk** | gn | Sets you as afk |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | **bttv** |bttvsearch| Search a bttv emote by its name |
 | **bttvemotes** | |  Sends all bttv emotes of given channel |

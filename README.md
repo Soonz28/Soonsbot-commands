@@ -9,7 +9,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **7tv** |7tvsearch | Search a 7tv emote by its name |
 | **8ball** | | Ask the magic 8ball |
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
-| **accountage** |accage |  Shows your account age |
+| **accountage** |accage | Sends your account age |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
 | **bttv** |bttvsearch| Search a bttv emote by its name |
 | **bttvemotes** | |  Sends all bttv emotes of given channel |
@@ -30,29 +30,31 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **followers** |seguidores | Sends user's amount of followers and views |
 | **following** |twitchfollowing, tf | Sends user's following list |
 | **google** |gg | Sends a link with your query (google) |
-| **help** | |Get detailed info of a specific command|
+| **help** | | Get detailed info of a specific command|
 | **joinchannel** | | 
 | **massping** | |Pings the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
 | **partchannel** | |
 | **Ping** | pong, pang, peng, pung, pyng, bing | bot status |
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
-| **profilepicture** |pfp | Fetches an user's picture |
+| **profilepicture** |pfp | Fetches an user's profile picture |
 | **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
-| **randomline** |rl | Sends a random line |
-| **randomping** |randombing | Random ping in chat |
+| **randomline** |rl | Sends a random line from a channel logged of just logs|
+| **randomping** |randombing | Pings a random user in chat |
+| **rm** | ri | Sends a random image from given subreddit |
 | **say** | | |
-| **shuffle** | | Shuffles the provided message/word |
+| **scramble** |shuffle | Scrambles the provided message/word |
 | **shutdown** | kill | |
 | **spam** | |Spam a message (maximum 70)|
 | **subage** |sa | Checks the subage of an user to a channel |
+| **suggest** | | Sends a suggestion of changes for the bot|
 | **tuck** | | Tucks targeted user to bed |
-| **urban** | urbandic | Sends the top definition of given term from urban dictionary |
+| **urban** | urbandic | Sends the top definition of given term from Urban Dictionary |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |
 | **userinfo** |usuario, user, whois, ? | Gives account info from given user |
 | **weather** |clima | Sends the actual weather of given city/country |
-| **whispers** |susurros, w | Links you to your whispers |
+| **whispers** |susurros, w | Sends a link of your whispers |
 | **weebcheck** |weeblevel | Random percentage of your weeb level |
 | **wolfram** |query | Wolfram alpha query |
 | **youtubesearch** |ys | Video search on youtube |

@@ -50,6 +50,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **spam** | |Spam a message (maximum 70)|
 | **subage** |sa | Checks the subage of an user to a channel |
 | **suggest** | | Sends a suggestion of changes for the bot|
+| **removesuggestion** | | Unset a suggestion made by you |
 | **tuck** | | Tucks targeted user to bed |
 | **urban** | urbandic | Sends the top definition of given term from Urban Dictionary |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |

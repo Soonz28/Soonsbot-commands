@@ -62,4 +62,3 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **youtubesearch** |ys | Video search on youtube |
 
 ---
-You can use ^help [command] to get extra details about a specific command.

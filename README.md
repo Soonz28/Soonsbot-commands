@@ -11,16 +11,19 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
 | **accountage** |accage | Sends your account age |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
+| **approvesuggestion| completesuggestion | |
 | **botsubs**| | Checks the channels where the bot is subscribed |
 | **bttv** |bttvsearch| Search a bttv emote by its name |
 | **bttvemotes** | |  Sends all bttv emotes of given channel |
 | **chatterino** | | Sends the link of chatterino release |
 | **chatters** |offlineviewers, ov | Checks how many viewers are in chat |
+| **checksuggestion**| | Check a suggestion made by you|
 | **clear** | | Clears the chat 75 times |
 | **code** |getcode | |
 | **coinflip** |cf | Flips a coin |
 | **color** |chatcolor, colour, usercolor |chatColor of the given user|
 | **commands** |comandos | Brings you here |
+| **denysuggestion**| | |
 | **echo** | | |
 | **emotelinks** |emotes | Sends all the given user links of their emotes |
 | **eval** | | |
@@ -54,6 +57,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **subage** |sa | Checks the subage of an user to a channel |
 | **suggest** | | Sends a suggestion of changes for the bot|
 | **tuck** | | Tucks targeted user to bed |
+| **unsetsuggestion|removesuggestion | Unsets an active suggestion made by you |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |
 | **userinfo** |usuario, user, whois, ? | Gives account info from given user |
 | **vanish** | | Sends a timeout of 1 second |

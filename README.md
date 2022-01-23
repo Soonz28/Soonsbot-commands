@@ -7,11 +7,12 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | --- | --- | --- |
 | **%** |percentage, porcentaje | Random percentage between 0 and 100 |
 | **7tv** |7tvsearch | Search a 7tv emote by its name |
-| **8ball** | | Ask the magic 8ball |
+| **8ball** | | Answers your question |
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
 | **accountage** |accage | Sends your account age |
 | **afk** | gn | Sets you as afk |
 | **anime** |waifu,ayaya | Random anime picture/gif  ![AYAYA](https://user-images.githubusercontent.com/82965926/141663925-d2545ca9-a004-4544-b398-2d9bc97965b3.png) |
+| **botsubs**| | Checks the channels where the bot is subscribed |
 | **bttv** |bttvsearch| Search a bttv emote by its name |
 | **bttvemotes** | |  Sends all bttv emotes of given channel |
 | **chatterino** | | Sends the link of chatterino release |
@@ -38,7 +39,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **partchannel** | |
 | **Ping** | pong, pang, peng, pung, pyng, bing | bot status |
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
-| **profilepicture** |pfp | Fetches an user's profile picture, its offline image and 7tv profile picture |
+| **profilepicture** |pfp | Fetches an user's profile picture |
 | **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |

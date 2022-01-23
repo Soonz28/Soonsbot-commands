@@ -23,7 +23,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **color** |chatcolor, colour, usercolor |chatColor of the given user|
 | **commands** |comandos | Brings you here |
 | **echo** | | |
-| **emotelinks** | | Sends all the given user links of their emotes |
+| **emotelinks** |emotes | Sends all the given user links of their emotes |
 | **eval** | | |
 | **ffz** |ffzsearch | Search a ffz emote by its name |
 | **ffzemotes** | | Sends all ffz emotes of given channel | 
@@ -43,9 +43,10 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
-| **randomline** |rl | Sends a random line from a channel logged of just logs|
+| **randomline** |rl | Sends a random line from a channel (logs.ivr.fi only)|
 | **randomping** |randombing | Pings a random user in chat |
-| **rm** | ri | Sends a random image from given subreddit |
+| **randomprofilepicture** |randompfp, rpfp | Sends the profile picture of a random user in chat|
+| **randommeme** |rm, ri | Sends a random image from given subreddit |
 | **say** | | |
 | **scramble** |shuffle | Scrambles the provided message/word |
 | **shutdown** | kill | |

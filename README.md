@@ -57,7 +57,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **subage** |sa | Checks the subage of an user to a channel |
 | **suggest** | | Sends a suggestion of changes for the bot|
 | **tuck** | | Tucks targeted user to bed |
-| **unsetsuggestion|removesuggestion | Unsets an active suggestion made by you |
+| **unsetsuggestion** |removesuggestion | Unsets an active suggestion made by you |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |
 | **userinfo** |usuario, user, whois, ? | Gives account info from given user |
 | **vanish** | | Sends a timeout of 1 second |

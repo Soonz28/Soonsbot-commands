@@ -30,6 +30,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **followage** |fa | Checks the followage of an user to a channel |
 | **followers** |seguidores | Sends user's amount of followers and views |
 | **following** |twitchfollowing, tf | Sends user's following list |
+| **founders** | | Get all the founders from a channel |
 | **google** |gg | Sends a link with your query (google) |
 | **help** | | Get detailed info of a specific command|
 | **joinchannel** | | 
@@ -37,7 +38,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **partchannel** | |
 | **Ping** | pong, pang, peng, pung, pyng, bing | bot status |
 | **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
-| **profilepicture** |pfp | Fetches an user's profile picture |
+| **profilepicture** |pfp | Fetches an user's profile picture, its offline image and 7tv profile picture |
 | **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
 | **randomhex** |randomcolor, rh, rc | Random hex color |
@@ -48,17 +49,16 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **scramble** |shuffle | Scrambles the provided message/word |
 | **shutdown** | kill | |
 | **spam** | |Spam a message (maximum 70)|
+| **streaminfo** |uptime, si | Gets details of provided stream |
 | **subage** |sa | Checks the subage of an user to a channel |
 | **suggest** | | Sends a suggestion of changes for the bot|
-| **removesuggestion** | | Unset a suggestion made by you |
 | **tuck** | | Tucks targeted user to bed |
-| **urban** | urbandic | Sends the top definition of given term from Urban Dictionary |
 | **userid** |uid, id | Sends given user's userID and checks if its banned |
 | **userinfo** |usuario, user, whois, ? | Gives account info from given user |
+| **vanish** | | Sends a timeout of 1 second |
 | **weather** |clima | Sends the actual weather of given city/country |
 | **whispers** |susurros, w | Sends a link of your whispers |
 | **weebcheck** |weeblevel | Random percentage of your weeb level |
+| **whatemoteisit** |weit | Get info of a Twitch subscriber emote |
 | **wolfram** |query | Wolfram alpha query |
 | **youtubesearch** |ys | Video search on youtube |
-
----

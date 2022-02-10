@@ -17,9 +17,9 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **bttvemotes** | |  Sends all bttv emotes of given channel |
 | **chatterino** | | Sends the link of chatterino release |
 | **chatters** |offlineviewers, ov | Checks how many viewers are in chat |
+| **chatstats**|cs | Sends the most chatters of a channel (StreamElements) |
 | **checksuggestion**| | Check a suggestion made by you|
 | **clear** | | Clears the chat 75 times |
-| **code** |getcode | |
 | **coinflip** |cf | Flips a coin |
 | **color** |chatcolor, colour, usercolor |chatColor of the given user|
 | **commands** |comandos | Brings you here |
@@ -37,10 +37,9 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **google** |gg | Sends a link with your query (google) |
 | **help** | | Get detailed info of a specific command|
 | **joinchannel** | | 
-| **massping** | |Pings the whole viewerlist ![1x](https://user-images.githubusercontent.com/82965926/141663898-622e7d31-934f-42cd-b6d9-2dae74feec64.gif) |
+| **massping** | |Pings the whole viewerlist |
 | **partchannel** | |
 | **Ping** | pong, pang, peng, pung, pyng, bing | bot status |
-| **pingme** |bingme, me | Pings you ![1x](https://user-images.githubusercontent.com/82965926/141664055-449d463a-4efe-41c5-9ee5-0c0327b580de.gif) |
 | **profilepicture** |pfp | Fetches an user's profile picture |
 | **pyramid** | |Make a pyramid in chat (maximum 50)|
 | **randomcat** |rcat, cat |Random cat picture |
@@ -63,7 +62,6 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **vanish** | | Sends a timeout of 1 second |
 | **weather** |clima | Sends the actual weather of given city/country |
 | **whispers** |susurros, w | Sends a link of your whispers |
-| **weebcheck** |weeblevel | Random percentage of your weeb level |
 | **whatemoteisit** |weit | Get info of a Twitch subscriber emote |
 | **wolfram** |query | Wolfram alpha query |
 | **youtubesearch** |ys | Video search on youtube |

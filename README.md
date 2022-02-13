@@ -1,5 +1,5 @@
 # SoonsBOT
-## BOT Prefix: ^
+## Defaul bot Prefix: ^
 Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png)   Bot commands:

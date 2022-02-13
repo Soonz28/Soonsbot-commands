@@ -50,8 +50,9 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **randommeme** |rm, ri | Sends a random image from given subreddit |
 | **say** | | |
 | **scramble** |shuffle | Scrambles the provided message/word |
+| **setprefix** |prefix | Sets the bot's prefix for the current channel |
 | **shutdown** | kill | |
-| **spam** | |Spam a message (maximum 70)|
+| **spam** | |Spam a message (maximum 100 lines)|
 | **streaminfo** |uptime, si | Gets details of provided stream |
 | **subage** |sa | Checks the subage of an user to a channel |
 | **suggest** | | Sends a suggestion of changes for the bot|

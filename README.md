@@ -35,7 +35,6 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **following** |twitchfollowing, tf | Sends user's following list |
 | **founders** | | Get all the founders from a channel |
 | **google** |gg | Sends a link with your query (google) |
-| **help** | | Get detailed info of a specific command|
 | **joinchannel** | | 
 | **massping** | |Pings the whole viewerlist |
 | **partchannel** | |
@@ -51,7 +50,6 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **say** | | |
 | **scramble** |shuffle | Scrambles the provided message/word |
 | **setprefix** |prefix | Sets the bot's prefix for the current channel |
-| **shutdown** | kill | |
 | **spam** | |Spam a message (maximum 100 lines)|
 | **streaminfo** |uptime, si | Gets details of provided stream |
 | **subage** |sa | Checks the subage of an user to a channel |
@@ -63,6 +61,6 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 | **vanish** | | Sends a timeout of 1 second |
 | **weather** |clima | Sends the actual weather of given city/country |
 | **whispers** |susurros, w | Sends a link of your whispers |
-| **whatemoteisit** |weit | Get info of a Twitch subscriber emote |
+| **whatemoteisit** |weit | Gets info of a Twitch subscriber emote |
 | **wolfram** |query | Wolfram alpha query |
 | **youtubesearch** |ys | Video search on youtube |

@@ -5,7 +5,7 @@ Twitch chat bot made by [@Soonzs](https://twitch.tv/soonzs)
 ## ![FeelsDankMan](https://user-images.githubusercontent.com/82965926/139553905-9e2c4d6c-633a-4c10-a1c0-88b156a574cd.png)   Bot commands:
 | Name  | Aliases | Description |
 | --- | --- | --- |
-| **%** |percentage, porcentaje | Random percentage between 0 and 100 |
+| **%** |percentage, porcentaje | Random percentage between 0 and 100% |
 | **7tv** |7tvsearch | Search a 7tv emote by its name |
 | **8ball** | | Answers your question |
 | **7tvemotes** | | Sends all 7tv emotes of given channel |
